@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 07 18:09:22 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0187-f6f9-8c08-000002b12048 
+on database directory memory:C:\Users\Admin\Downloads\hotel_residence_codecanyon\source-code\myDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Admin/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.1+12-LTS-39
+user.dir=C:\Users\Admin\Downloads\hotel_residence_codecanyon\source-code
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
